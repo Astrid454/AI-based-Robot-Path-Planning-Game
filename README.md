@@ -36,6 +36,21 @@ The application is implemented as an interactive game using **Pygame**, where an
 
 ---
 
+## Dataset
+
+The dataset is not included in this repository due to size constraints.
+
+Expected structure:
+
+```text
+map_dataset/
+├── train/
+├── validation/
+└── test/
+```
+
+---
+
 ## Application Features
 - Interactive grid-based game
 - Player mode (manual control)
